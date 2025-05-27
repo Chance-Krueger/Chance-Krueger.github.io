@@ -14,7 +14,7 @@
 
 #### Related Coursework: Computing in Python, Software Development in Java, Computer Organization and MIPS, Object-Ornt Programming+Design, System Programming+Unix, Analysis of Discrete Structures, Data Wrangling with SQL, Discrete Mathematics
 
-## Work Experience
+## Work Experience 
 
 **Undergraduate Teaching Assistant in Java/Python (_August 2024 – Present_)**
 University of Arizona, Computer Science Department
