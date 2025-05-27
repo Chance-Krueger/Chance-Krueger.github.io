@@ -4,7 +4,7 @@
 
 #### Technologies and Tools: VS Code, Eclipse, MARS, JUNIT, Git/GitHub 
 
-## Education
+## Education 
 
 ### University of Arizona | Tucson, Arizona | Bachelor of Arts in Computer Science | Minor in Business Administration | Expected Graduation: May 2026
 
