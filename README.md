@@ -2,7 +2,7 @@
 
 #### Technical Skills: Java, C, Python, SQL, MIPS Assembly, Unix, HTML
 
-#### Technologies and Tools: VS Code, Eclipse, MARS, JUNIT, Git/GitHub
+#### Technologies and Tools: VS Code, Eclipse, MARS, JUNIT, Git/GitHub!
 
 ## Education 
 
