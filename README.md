@@ -4,6 +4,14 @@
 
 #### Technologies and Tools: VS Code, Eclipse, MARS, JUNIT, Git/GitHub
 
+## About Me
+
+ADD->
+    - A little about myself (background, grew up, now live)
+    - goals (certifications, etc.)
+    - what youre looking for (jobs and future)
+    - skills and strengths (both technical and personal [management])
+
 ## Education 
 
 ### University of Arizona | Tucson, Arizona | Bachelor of Arts in Computer Science | Minor in Business Administration | Expected Graduation: May 2026
@@ -59,7 +67,6 @@ This Java GUI application simulates a restaurant server's tasks. Run LoginFrame 
     https://github.com/Chance-Krueger?tab=stars
 
 ## Resume
-
-### LINK TO MY RESUME
+        LINK TO MY RESUME
 
 
