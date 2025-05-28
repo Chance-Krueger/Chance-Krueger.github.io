@@ -1,8 +1,8 @@
-# Aspiring Software Engeneering
+# Aspiring Software Engineer
 
 #### Technical Skills: Java, C, Python, SQL, MIPS Assembly, Unix, HTML
 
-#### Technologies and Tools: VS Code, Eclipse, MARS, JUNIT, Git/GitHub!
+#### Technologies and Tools: VS Code, Eclipse, MARS, JUNIT, Git/GitHub
 
 ## Education 
 
@@ -31,12 +31,18 @@ The Global Career Accelerator
 
 ## Projects
 ### Auto-Planner-Scheduler
-[Project](https://github.com/Chance-Krueger/Auto-Planner-Scheduler)
+
+ADD SMALL PHOTO
+
+[Link to Auto-Planner-Scheduler](https://github.com/Chance-Krueger/Auto-Planner-Scheduler)
 
 A future GUI-based application (with planned design and JAR file) that will function as both a calendar and scheduler. It will automatically allocate time for events you input, helping you manage your schedule more efficiently and stay organized. The application will use custom algorithms—rather than AI—to determine the most efficient and effective schedule. It will dynamically update your schedule based on new inputs or changes, ensuring it stays optimized. More features and enhancements are planned for future updates.
 
 ### Server-POS-GUI
-[Project](https://github.com/Chance-Krueger/Server-POS-GUI)
+
+ADD SMALL PHOTO
+
+[Link to Server-POS-GUI](https://github.com/Chance-Krueger/Server-POS-GUI)
 
 This Java GUI application simulates a restaurant server's tasks. Run LoginFrame to start. Users can log in or create an account to seat tables, take orders, print/pay bills, and view tips. A special manager login (management / Manager!123) provides access to sales data and item statistics. The project follows the Model-View-Controller (MVC) design and makes use of HashMaps, enums, and encapsulation best practices.
 
@@ -52,6 +58,8 @@ This Java GUI application simulates a restaurant server's tasks. Run LoginFrame 
 ### Link to My Listed/Sorted Repositories
     https://github.com/Chance-Krueger?tab=stars
 
+## Resume
 
+### LINK TO MY RESUME
 
 
