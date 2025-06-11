@@ -19,13 +19,13 @@ PHOTO
 
 ### Querying Data (Intel)
 
-    Using SQL to pull data from large datasets with Intel
+Using SQL to pull data from large datasets with Intel
 
 PHOTO
 
 ### Python and Data (Recording Academy)
 
-    Using Python to analyze data with Recording Academy (Grammy Awards)
+Using Python to analyze data with Recording Academy (Grammy Awards)
 
 ## Education 
 
