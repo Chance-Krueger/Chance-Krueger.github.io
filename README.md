@@ -87,8 +87,12 @@ This Java GUI application simulates a restaurant server's tasks. Run LoginFrame 
 ### Link to My Listed/Sorted Repositories
     https://github.com/Chance-Krueger?tab=stars
 
-### Link to My LinkedIn
+## My LinkedIn
     https://www.linkedin.com/in/chance-krueger
+
+## My Resume
+[Link to Resume](https://github.com/Chance-Krueger/Chance-Krueger.github.io/blob/2b9053f7eb53dd961aea2fed7bfd4d6e30e571a1/images/Internship%20Resume%202025%20with%20Certifications.pdf)
+
 
 
 
