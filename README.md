@@ -37,6 +37,9 @@ Using Python to analyze data with Recording Academy (Grammy Awards)
 
 #### Related Coursework: Computing in Python, Software Development in Java, Computer Organization and MIPS, Object-Ornt Programming+Design, System Programming+Unix, Analysis of Discrete Structures, Data Wrangling with SQL, Discrete Mathematics
 
+## My Resume
+[Link to Resume](https://github.com/Chance-Krueger/Chance-Krueger.github.io/blob/2b9053f7eb53dd961aea2fed7bfd4d6e30e571a1/images/Internship%20Resume%202025%20with%20Certifications.pdf)
+
 ## Work Experience 
 
 **Course Coordinator / Undergraduate Teaching Assistant in Java/Python (_August 2024 – Present_)**
@@ -89,10 +92,6 @@ This Java GUI application simulates a restaurant server's tasks. Run LoginFrame 
 
 ## My LinkedIn
     https://www.linkedin.com/in/chance-krueger
-
-## My Resume
-[Link to Resume](https://github.com/Chance-Krueger/Chance-Krueger.github.io/blob/2b9053f7eb53dd961aea2fed7bfd4d6e30e571a1/images/Internship%20Resume%202025%20with%20Certifications.pdf)
-
 
 
 
