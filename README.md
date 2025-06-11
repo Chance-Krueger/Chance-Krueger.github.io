@@ -24,17 +24,23 @@ ADD->
 
 ## Work Experience 
 
-**Undergraduate Teaching Assistant in Java/Python (_August 2024 – Present_)**
+**Course Coordinator / Undergraduate Teaching Assistant in Java/Python (_August 2024 – Present_)**
 University of Arizona, Computer Science Department
-- Assist in delivering course content by providing in-class support and facilitating discussions.
-- Hold office hours to help students troubleshoot and debug code, ensuring understanding of computer science concepts.
-- Contribute to grading assignments, exams, and developing course materials in collaboration with instructors.
-- Partner with faculty to enhance the learning experience and promote student success in computer science courses.
-- Courses Taught: Intro to Computer Science (Java), Python Programming.
+- Provide in-class technical support and facilitate student engagement during lectures and labs.
+- Host office hours to assist with programming, debugging, and conceptual understanding.
+- Grade and correct assignments/exams; assist in creating instructional materials.
+- Coordinate TA meetings, organize grading workflows, and maintain consistency across sections.
+- Act as a liaison between instructors and TAs; support course logistics and documentation.
+- Mentor new UGTAs and contribute to onboarding and team support.
+- Courses Taught: Object Oriented Programming+Design (Java), Intro to Computer Science (Java), Python Programming.
 
 **Coding for Data (Data Wrangling with SQL) (_May 2025 - July 2025_)**
 The Global Career Accelerator
-- Participated in an intensive, project-based SQL bootcamp focused on real-world data analysis and data wrangling. Applied SQL to clean, query, and join datasets from platforms like YouTube, DoorDash, Zillow, and Uber. Attended live lab sessions with instructors to reinforce concepts and debug queries in real time. Developed a portfolio project analyzing sustainability data for Intel, simulating real industry use cases. Also completed training in cross-cultural communication and building a professional online presence.
+- Participated in an intensive, project-based SQL bootcamp focused on real-world data analysis and data wrangling.
+- Applied SQL to clean, query, and join datasets from platforms like YouTube, DoorDash, Zillow, and Uber.
+- Attended live lab sessions with instructors to reinforce concepts and debug queries in real time.
+- Developed a portfolio project analyzing sustainability data for Intel, simulating real industry use cases.
+- Completed training in cross-cultural communication and building a professional online presence.
 
 
 ## Projects
@@ -66,7 +72,10 @@ This Java GUI application simulates a restaurant server's tasks. Run LoginFrame 
 ### Link to My Listed/Sorted Repositories
     https://github.com/Chance-Krueger?tab=stars
 
+### Link to My LinkedIn
+    https://www.linkedin.com/in/chance-krueger
+
 ## Resume
-        LINK TO MY RESUME
+[Link to Resume](https://github.com/Chance-Krueger/Server-POS-GUI)
 
 
