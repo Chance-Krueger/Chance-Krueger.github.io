@@ -6,11 +6,12 @@
 
 ## About Me
 
-ADD->
-    - A little about myself (background, grew up, now live)
-    - goals (certifications, etc.)
-    - what youre looking for (jobs and future)
-    - skills and strengths (both technical and personal [management])
+Hey, I’m Chance Krueger. I grew up in San Diego and now live in Tucson, where I’m studying Computer Science at the University of Arizona with a Business Administration minor.
+
+I'm passionate about software development—especially backend systems—and aim to build a career as a software developer. I’m also exploring DevOps and cybersecurity on the side to stay well-rounded in tech. I currently hold certifications in Querying Data (Intel) and Python and Data (Recording Academy), and I’m actively working on more certifications and personal projects to deepen my skills and keep learning.
+
+Outside of coding, I played baseball and golf most of my life, and I’m a big fan of college basketball and football. I enjoy being part of driven teams and am always looking for new opportunities to grow, contribute, and build impactful systems.
+
 
 ## Certifications
 
@@ -18,9 +19,13 @@ PHOTO
 
 ### Querying Data (Intel)
 
+    Using SQL to pull data from large datasets with Intel
+
 PHOTO
 
 ### Python and Data (Recording Academy)
+
+    Using Python to analyze data with Recording Academy (Grammy Awards)
 
 ## Education 
 
@@ -85,7 +90,5 @@ This Java GUI application simulates a restaurant server's tasks. Run LoginFrame 
 ### Link to My LinkedIn
     https://www.linkedin.com/in/chance-krueger
 
-## Resume
-[Link to Resume](https://github.com/Chance-Krueger/Chance-Krueger.github.io/blob/2b9053f7eb53dd961aea2fed7bfd4d6e30e571a1/images/Internship%20Resume%202025%20with%20Certifications.pdf)
 
 
