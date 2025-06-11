@@ -10,7 +10,9 @@ Hey, I’m Chance Krueger. I grew up in San Diego and now live in Tucson, where 
 
 I'm passionate about software development—especially backend systems—and aim to build a career as a software developer. I’m also exploring DevOps and cybersecurity on the side to stay well-rounded in tech. I currently hold certifications in Querying Data (Intel) and Python and Data (Recording Academy), and I’m actively working on more certifications and personal projects to deepen my skills and keep learning.
 
-Outside of coding, I played baseball and golf most of my life, and I’m a big fan of college basketball and football. I enjoy being part of driven teams and am always looking for new opportunities to grow, contribute, and build impactful systems.
+Outside of coding, I played baseball and golf most of my life, and I’m a big fan of college basketball and football. I enjoy being part of driven teams and am always looking for new opportunities to grow, contribute, and build impactful systems. 
+
+[Link to Resume](https://github.com/Chance-Krueger/Chance-Krueger.github.io/blob/2b9053f7eb53dd961aea2fed7bfd4d6e30e571a1/images/Internship%20Resume%202025%20with%20Certifications.pdf)
 
 
 ## Certifications
@@ -36,9 +38,6 @@ Using Python to analyze data with Recording Academy (Grammy Awards)
 #### Concentrations:  Software engineering/development, structured programming techniques, hands-on coding and testing, scalable system design, and collaborative problem-solving in innovative technologies.
 
 #### Related Coursework: Computing in Python, Software Development in Java, Computer Organization and MIPS, Object-Ornt Programming+Design, System Programming+Unix, Analysis of Discrete Structures, Data Wrangling with SQL, Discrete Mathematics
-
-## My Resume
-[Link to Resume](https://github.com/Chance-Krueger/Chance-Krueger.github.io/blob/2b9053f7eb53dd961aea2fed7bfd4d6e30e571a1/images/Internship%20Resume%202025%20with%20Certifications.pdf)
 
 ## Work Experience 
 
