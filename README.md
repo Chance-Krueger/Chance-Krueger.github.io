@@ -80,15 +80,15 @@ This Java GUI application simulates a restaurant server's tasks. Run LoginFrame 
 
 ## My GitHub
 
-### [Link To My GitHub](https://github.com/Chance-Krueger)
+#### [Link To My GitHub](https://github.com/Chance-Krueger)
 
-### [Link To My Repositories](https://github.com/Chance-Krueger?tab=repositories)
+#### [Link To My Repositories](https://github.com/Chance-Krueger?tab=repositories)
 
-### [Link to My Listed/Sorted Repositories](https://github.com/Chance-Krueger?tab=stars)
+#### [Link to My Listed/Sorted Repositories](https://github.com/Chance-Krueger?tab=stars)
 
 ## My LinkedIn
 
-### [Link to My LinkedIn](https://www.linkedin.com/in/chance-krueger)
+#### [Link to My LinkedIn](https://www.linkedin.com/in/chance-krueger)
 
 
 
