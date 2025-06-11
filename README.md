@@ -1,8 +1,8 @@
 # Aspiring Software Engineer
 
-#### Technical Skills: Java, C, Python, SQL, MIPS Assembly, Unix, HTML
+#### Technical Skills: Java, C, Python, SQL, Javascript, MIPS Assembly, HTML, Unix
 
-#### Technologies and Tools: VS Code, Eclipse, MARS, JUNIT, Git/GitHub
+#### Technologies and Tools: VS Code, Eclipse, MARS, JUNIT, Git/GitHub, MySQL
 
 ## About Me
 
