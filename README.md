@@ -12,6 +12,16 @@ ADD->
     - what youre looking for (jobs and future)
     - skills and strengths (both technical and personal [management])
 
+## Certifications
+
+PHOTO
+
+### Querying Data (Intel)
+
+PHOTO
+
+### Python and Data (Recording Academy)
+
 ## Education 
 
 ### University of Arizona | Tucson, Arizona | Bachelor of Arts in Computer Science | Minor in Business Administration | Expected Graduation: May 2026
@@ -76,6 +86,6 @@ This Java GUI application simulates a restaurant server's tasks. Run LoginFrame 
     https://www.linkedin.com/in/chance-krueger
 
 ## Resume
-[Link to Resume](https://github.com/Chance-Krueger/Server-POS-GUI)
+[Link to Resume](https://github.com/Chance-Krueger/Chance-Krueger.github.io/blob/2b9053f7eb53dd961aea2fed7bfd4d6e30e571a1/images/Internship%20Resume%202025%20with%20Certifications.pdf)
 
 
