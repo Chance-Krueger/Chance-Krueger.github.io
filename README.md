@@ -12,7 +12,7 @@ I'm passionate about software development—especially backend systems—and aim
 
 Outside of coding, I played baseball and golf most of my life, and I’m a big fan of college basketball and football. I enjoy being part of driven teams and am always looking for new opportunities to grow, contribute, and build impactful systems. 
 
-[Link to Resume](https://github.com/Chance-Krueger/Chance-Krueger.github.io/blob/2b9053f7eb53dd961aea2fed7bfd4d6e30e571a1/images/Internship%20Resume%202025%20with%20Certifications.pdf)
+[Link to Resume](images/Internship Resume 2025 with Certifications.pdf)
 
 
 ## Certifications
@@ -63,7 +63,7 @@ The Global Career Accelerator
 ## Projects
 ### Auto-Planner-Scheduler
 
-[Image of Main Menu Screen of Auto-Planner-Scheduler](images/MainMenuImage.png)
+![Image of Main Menu Screen of Auto-Planner-Scheduler](images/MainMenuImage.png)
 
 [Link to Auto-Planner-Scheduler](https://github.com/Chance-Krueger/Auto-Planner-Scheduler)
 
@@ -71,7 +71,7 @@ A future GUI-based application (with planned design and JAR file) that will func
 
 ### Server-POS-GUI
 
-[Image of Server Side POS](images/RestaurantSimulatorImage.png)
+![Image of Server Side POS](images/RestaurantSimulatorImage.png)
 
 [Link to Server-POS-GUI](https://github.com/Chance-Krueger/Server-POS-GUI)
 
