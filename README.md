@@ -63,7 +63,7 @@ The Global Career Accelerator
 ## Projects
 ### Auto-Planner-Scheduler
 
-ADD SMALL PHOTO
+[Image of Main Menu Screen of Auto-Planner-Scheduler](images/MainMenuImage.png)
 
 [Link to Auto-Planner-Scheduler](https://github.com/Chance-Krueger/Auto-Planner-Scheduler)
 
@@ -71,7 +71,7 @@ A future GUI-based application (with planned design and JAR file) that will func
 
 ### Server-POS-GUI
 
-ADD SMALL PHOTO
+[Image of Server Side POS](images/RestaurantSimulatorImage.png)
 
 [Link to Server-POS-GUI](https://github.com/Chance-Krueger/Server-POS-GUI)
 
