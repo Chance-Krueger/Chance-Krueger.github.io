@@ -12,7 +12,7 @@ I'm passionate about software development—especially backend systems—and aim
 
 Outside of coding, I played baseball and golf most of my life, and I’m a big fan of college basketball and football. I enjoy being part of driven teams and am always looking for new opportunities to grow, contribute, and build impactful systems. 
 
-[Link to Resume](images/Internship Resume 2025 with Certifications.pdf)
+[Link to New Resume](images/Internship Resume 2025 with Certifications.pdf)
 
 
 ## Certifications
