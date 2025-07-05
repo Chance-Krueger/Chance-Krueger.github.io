@@ -2,7 +2,7 @@
 
 #### Technical Skills: Java, C, Python, SQL, Javascript, MIPS Assembly, HTML, Unix
 
-#### Technologies and Tools: VS Code, Eclipse, MARS, JUNIT, Git/GitHub, MySQL
+#### Technologies and Tools: VS Code, Eclipse, MARS, JUNIT, Git/GitHub, MySQL, Pandas, Plotly
 
 ## About Me
 
