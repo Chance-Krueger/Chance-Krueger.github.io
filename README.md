@@ -51,6 +51,14 @@ University of Arizona, Computer Science Department
 - Mentor new UGTAs and contribute to onboarding and team support.
 - Courses Taught: Object Oriented Programming+Design (Java), Intro to Computer Science (Java), Python Programming.
 
+**Coding for Data (Python for Data) (_July 2025 - August 2025_)**
+The Global Career Accelerator
+- Completed an advanced, project-based Python bootcamp focused on real-world data analytics and business problem-solving.
+- Leveraged deep Python skills to tackle complex projects involving data cleaning, filtering, aggregation, and visualization using Pandas and Plotly.
+- Analyzed diverse datasets from companies such as ASOS, DoorDash, Lyft, and Spotify.
+- Developed a portfolio project analyzing website performance data for The Grammy Awards, simulating real industry scenarios.
+- Completed training on cross-cultural communication, bias management, and career readiness skills.
+
 **Coding for Data (Data Wrangling with SQL) (_May 2025 - July 2025_)**
 The Global Career Accelerator
 - Participated in an intensive, project-based SQL bootcamp focused on real-world data analysis and data wrangling.
@@ -58,6 +66,7 @@ The Global Career Accelerator
 - Attended live lab sessions with instructors to reinforce concepts and debug queries in real time.
 - Developed a portfolio project analyzing sustainability data for Intel, simulating real industry use cases.
 - Completed training in cross-cultural communication and building a professional online presence.
+
 
 
 ## Projects
