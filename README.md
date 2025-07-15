@@ -17,7 +17,7 @@ Outside of coding, I played baseball and golf most of my life, and I’m a big f
 
 ## Certifications
 
-PHOTO
+![Image of Querying Data Certificate](images/QueryingDataCertificate.png)
 
 ### Querying Data (Intel)
 
