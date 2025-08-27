@@ -8,7 +8,7 @@
 
 Hey, I’m Chance Krueger. I grew up in San Diego and now live in Tucson, where I’m studying Computer Science at the University of Arizona with a Business Administration minor.
 
-I'm passionate about software development—especially backend systems—and aim to build a career as a software developer. I’m also exploring DevOps and cybersecurity on the side to stay well-rounded in tech. I currently hold certifications in "Querying Data" (Intel) and "Python and Data" (Recording Academy), and I’m actively working on more certifications and personal projects to deepen my skills and keep learning.
+I'm passionate about software development (especially backend systems) and aim to build a career as a software developer. I’m also exploring DevOps and cybersecurity on the side to stay well-rounded in tech. I currently hold certifications in "Querying Data" (Intel) and "Python and Data" (Recording Academy), and I’m actively working on more certifications and personal projects to deepen my skills and keep learning.
 
 Outside of coding, I played baseball and golf most of my life, and I’m a big fan of college basketball and football. I enjoy being part of driven teams and am always looking for new opportunities to grow, contribute, and build impactful systems. 
 
