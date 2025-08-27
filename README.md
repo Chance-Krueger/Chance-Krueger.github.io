@@ -23,7 +23,7 @@ Outside of coding, I played baseball and golf most of my life, and I’m a big f
 
 Using SQL to pull data from large datasets with Intel
 
-PHOTO
+![Image of Python and Data Certification](images/PythonAndDataCertification.png)
 
 ### Python and Data (Recording Academy)
 
