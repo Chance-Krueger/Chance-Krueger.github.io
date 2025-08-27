@@ -12,13 +12,12 @@ I'm passionate about software development (especially backend systems) and aim t
 
 Outside of coding, I played baseball and golf most of my life, and I’m a big fan of college basketball and football. I enjoy being part of driven teams and am always looking for new opportunities to grow, contribute, and build impactful systems. 
 
-[Link to Resume](images/Internship Resume 2025 with Certifications.pdf)
+[Link to Resume (unupdated)](images/Internship Resume 2025 with Certifications.pdf)
 
 
 ## Certifications
 
-![Image of Querying Data Certificate](images/QueryingDataCertificate.png) ![Image of Querying Data Certificate](images/QueryingDataCertificate.png)
-
+![Image of Querying Data Certificate](images/QueryingDataCertificate.png)
 ### Querying Data (Intel)
 
 Using SQL to pull data from large datasets with Intel
