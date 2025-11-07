@@ -40,6 +40,14 @@ Using Python to analyze data with Recording Academy (Grammy Awards)
 
 ## Work Experience 
 
+**Arizona Baseball Software Development Team (_October 2025 – Present_)**
+University of Arizona, Athletics Department
+- Built internal tools for player development and game strategy using Python, R, and data visualization platforms
+- Built hitter report from Trackman CSVs with statistical tables and visual insights.
+- Collaborated with coaches and analysts to translate raw data into actionable insights
+- Contributed to scalable software solutions supporting team operations
+
+
 **Course Coordinator / Undergraduate Teaching Assistant in Java/Python (_August 2024 – Present_)**
 University of Arizona, Computer Science Department
 - Provide in-class technical support and facilitate student engagement during lectures and labs.
